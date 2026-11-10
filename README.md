@@ -3,6 +3,7 @@ WEBSITE KENALI CYBER BULLYING
 Saat ini, internet dan media sosial sudah menjadi bagian dari kehidupan sehari-hari. Banyak orang menggunakan media sosial untuk berkomunikasi, mencari informasi, dan berbagi kegiatan. Namun, masih ada beberapa perilaku negatif yang sering terjadi di internet, salah satunya adalah cyber bullying.
 Cyber bullying merupakan tindakan perundungan yang dilakukan melalui media digital, seperti media sosial, pesan singkat, dan platform online lainnya. Tindakan ini dapat membuat seseorang merasa malu, takut, sedih, bahkan kehilangan rasa percaya diri.
 Melihat masalah tersebut, saya membuat website yang berjudul Kenali Cyber Bullying. Website ini dibuat untuk memberikan informasi kepada pengunjung agar lebih mengenal cyber bullying dan mengetahui cara menghindarinya.
+
 >Tujuan Pembuatan
 Tujuan dari pembuatan website ini adalah:
 - Memberikan penjelasan tentang apa itu cyber bullying.
