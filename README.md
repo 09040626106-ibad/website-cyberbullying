@@ -11,6 +11,7 @@ Tujuan dari pembuatan website ini adalah:
 - Memberikan informasi tentang dampak cyber bullying.
 - Menjelaskan cara menghadapi dan mencegah cyber bullying.
 - Mengajak pengguna internet agar lebih bijak dalam menggunakan media sosial.
+
 >Tentang Website
 Website Kenali Cyber Bullying merupakan website edukasi yang membahas masalah perundungan di dunia digital. Website ini dibuat dengan tampilan yang sederhana agar pengunjung mudah membaca dan memahami informasi yang disampaikan.
 Melalui website ini, pengunjung dapat mengetahui bahwa tindakan seperti menghina, mengancam, atau mempermalukan orang lain melalui internet termasuk perilaku yang tidak baik dan harus dihindari.
@@ -28,17 +29,21 @@ Bagian ini berisi pesan positif untuk memberikan semangat dan dukungan kepada or
 Bagian ini berisi artikel tambahan mengenai penggunaan media sosial secara bijak dan pentingnya menjaga perilaku saat berkomunikasi di internet.
 -Hubungi Kami
 Bagian ini menyediakan informasi kontak bagi pengunjung yang ingin memberikan pertanyaan atau saran.
+
 >Aplikasi yang Digunakan
 - WordPress, digunakan untuk membuat dan mengelola website.
 - Tema Astra, digunakan untuk mengatur tampilan website.
 - GitHub, digunakan untuk menyimpan file dan dokumentasi proyek.
 - Google Chrome, digunakan untuk membuka dan mengedit website.
+
 >Manfaat Website
 Dengan adanya website ini, diharapkan pengunjung bisa lebih memahami tentang cyber bullying dan dampaknya. Selain itu, website ini juga mengajak pengunjung untuk lebih berhati-hati dalam menggunakan media sosial, menjaga perkataan, dan tidak melakukan tindakan yang dapat menyakiti orang lain.
+
 >Kesimpulan
 Dari pembuatan website ini, saya belajar bahwa penggunaan internet harus disertai dengan sikap yang baik dan bertanggung jawab. Cyber bullying merupakan masalah yang tidak boleh dianggap sepele karena dapat memberikan dampak buruk bagi orang yang mengalaminya.
 Melalui website Kenali Cyber Bullying, saya berharap informasi yang disampaikan dapat menambah pengetahuan dan membuat pengunjung lebih peduli terhadap masalah perundungan di dunia digital.
 Mari gunakan internet dengan bijak dan saling menghargai satu sama lain.
+
 >Pembuat
 - Nama:Ahmad ibadurrohman izul khaq
 - NIM: 09040626106
