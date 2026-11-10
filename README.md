@@ -14,6 +14,7 @@ Tujuan dari pembuatan website ini adalah:
 >Tentang Website
 Website Kenali Cyber Bullying merupakan website edukasi yang membahas masalah perundungan di dunia digital. Website ini dibuat dengan tampilan yang sederhana agar pengunjung mudah membaca dan memahami informasi yang disampaikan.
 Melalui website ini, pengunjung dapat mengetahui bahwa tindakan seperti menghina, mengancam, atau mempermalukan orang lain melalui internet termasuk perilaku yang tidak baik dan harus dihindari.
+
 >Isi Website:
 -Beranda
 Beranda merupakan halaman utama website yang berisi pengenalan singkat tentang cyber bullying.
